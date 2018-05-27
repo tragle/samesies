@@ -1,0 +1,7 @@
+[package]
+name = "samesies"
+version = "0.1.0"
+authors = ["Tom Ragle <tom@nonsensicalgames.com>"]
+
+[dependencies]
+walkdir = "2"

@@ -1,0 +1,8 @@
+Take a directory
+Take all the files in the directory
+Optionally group them
+Reduce to a map of file hashes to file paths
+Filter out entries with less than 2 file paths
+For each remaining entry
+Format the entry for reporting
+Pipe to standard output
