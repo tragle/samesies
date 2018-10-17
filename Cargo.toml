@@ -1,6 +1,6 @@
 [package]
 name = "samesies"
 version = "0.1.0"
-authors = ["Tom Ragle <tom@nonsensicalgames.com>"]
+authors = ["Tom Ragle <tragle@gmail.com>"]
 
 [dependencies]
